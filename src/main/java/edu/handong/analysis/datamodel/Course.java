@@ -6,7 +6,6 @@ public class Course {
 	
 	//Constructor of Course
 	public Course(String courseName) {
-		super();
 		this.courseName = courseName;
 	}
 	
